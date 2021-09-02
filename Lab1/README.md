@@ -1,4 +1,4 @@
-**Lab1:**
+**Lab 1:**
 
 1. Download and Install RKE (Rancher Kubernetes Engine)
 
