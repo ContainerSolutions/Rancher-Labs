@@ -1,3 +1,13 @@
-First Lab:
+**First Lab:**
 
-- Download and Install RKE (Rancher Kubernetes Engine)
+1. Download and Install RKE (Rancher Kubernetes Engine)
+
+Access: `https://github.com/rancher/rke/releases/` 
+
+2. MacOS/Linux
+ - Copy the binary to /usr/local/bin/
+ - Use chmod to change the permissions of the binary so you may execute it.
+
+3. Run RKE --version
+
+Run `$ rke --version` 
