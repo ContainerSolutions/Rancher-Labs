@@ -1,8 +1,9 @@
 # Rancher-Labs
-I am sharing my own Rancher Labs. So it can be easily reproducible by new hires or people interested
-in Learning this amazing tool
+I am sharing my own Rancher Labs. 
+My ultimate goal is that interested folks can easily reproduce it..
+
 
 \o/
-Cheers,
+Welcome and Cheers,
 
 Rodrigo Rios
