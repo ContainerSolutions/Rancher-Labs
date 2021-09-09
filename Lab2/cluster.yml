@@ -1,0 +1,7 @@
+nodes:
+    - address: <your_ip_address>
+      user: <your_username>
+      role:
+        - controlplane
+        - etcd
+        - worker
