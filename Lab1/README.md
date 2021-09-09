@@ -1,13 +1,13 @@
 <h2> Download and Install Rancher - rke  </h2>
 
-1. Download and Install RKE (Rancher Kubernetes Engine)
+Download and Install RKE (Rancher Kubernetes Engine)
 
-From: https://github.com/rancher/rke/releases/ 
+- From: https://github.com/rancher/rke/releases/ 
 
-2. MacOS/Linux
- - Copy the binary to /usr/local/bin/
- - Use chmod to change the permissions of the binary so you may execute it.
+MacOS/Linux
+  - Copy the binary to /usr/local/bin/
+  - Use chmod to change the permissions of the binary so you may execute it.
 
-3. Run RKE --version
+Run RKE --version
 
        $rke --version
