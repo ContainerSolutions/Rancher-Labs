@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<h1> Download and Install Rancher - rke  </h1>
-
-1. Download and Install RKE (Rancher Kubernetes Engine)
-
--    Access: https://github.com/rancher/rke/releases/
-=======
-**Lab 1:**
+<h2> Download and Install Rancher - rke  </h2>
 
 1. Download and Install RKE (Rancher Kubernetes Engine)
 
