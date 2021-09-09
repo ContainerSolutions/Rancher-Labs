@@ -1,8 +1,8 @@
-<h2> Setups a Minimal Cluster - custer.yml provided </h2>
+<h1> Setups a Minimal Cluster - custer.yml provided </h1>
 
-1. In Lab1 we did the installation of RKE. RKE is a installer for Rancher RKE distribuition. It install or a list of remote Nodes, or your own machine(local node)
+   In Lab1 we did the installation of RKE. RKE is a installer for Rancher RKE distribuition. It install or a list of remote Nodes, or your own machine(local node) 
 
-2. Get the file cluster.yml 
+<h3>Get the file cluster.yml </h3>
 
 
    - change the IP address to *your_ip_address*
@@ -19,9 +19,6 @@
 ```
 
 
-
-
-
-1. Place the cluster.yml file in the right folder:
+<h3>Place the cluster.yml file in the right folder:</h3>
 
         $rke up
