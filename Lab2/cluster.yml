@@ -1,6 +1,6 @@
 nodes:
-    - address: <your_ip_address>
-      user: <your_username>
+    - address: 192.168.0.8
+      user: rodrigo
       role:
         - controlplane
         - etcd

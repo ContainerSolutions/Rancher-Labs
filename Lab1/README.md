@@ -12,3 +12,11 @@
 <h3>Run rke --version</h3>
 
        $rke --version
+
+
+
+Enjoy your studying time! 
+
+Cheers \o/,
+
+rodrigo.rios@container-solutions.com
