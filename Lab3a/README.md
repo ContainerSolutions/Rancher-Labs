@@ -7,7 +7,7 @@
 <h3>Get the cluster.yml file from the previous exercise and get the previous snapshot taken in /opt/rke/etcd-snapshots/ </h3>
 
 
-    $rke etcd snapshot snapshot-restore
+    $ rke etcd snapshot snapshot-restore
     --config cluster.yml 
     --name snap_test --ssh-agent-auth
 
