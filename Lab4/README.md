@@ -16,8 +16,6 @@ run:
     $ rke config --list-versions -all
 
 
-<br>
-
 <h3>Update the cluster.yml file </h3>
 
 Find the line where you define the Kubernetes version *(under system images)*,  find *Kubernetes:* ,change it to the desired version. 
