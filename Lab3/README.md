@@ -6,14 +6,14 @@
 <h3>Get the cluster.yml file from the previous exercise </h3>
 
 
-    $rke etcd snapshot snapshot-restore
+    $ rke etcd snapshot snapshot-restore
     --config cluster.yml 
     --name snap_test --ssh-agent-auth
 
 
 <h3>Check if the snapshot exists </h3>
 
-    $ls  /opt/rke/etcd-snapshots/
+    $ ls  /opt/rke/etcd-snapshots/
 
 <br>
 Enjoy your studying time! 
