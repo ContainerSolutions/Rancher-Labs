@@ -2,7 +2,6 @@
 
    In Lab2a we did the initial deploy of a complete cluster with RKE. We wil learn now how to take a snapshot with *rke etc snapshot-save*
 
-<br>
 
 <h3>Get the cluster.yml file from the previous exercise </h3>
 
